@@ -4,8 +4,6 @@
   "type": "ap",
   "eap": "SKOS.eap",
   "diagram": "skos",
-  "template": "skos-ap.j2",
-  "title": "Simple Knowledge Organization System (SKOS)",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
   "publication-date": "2022-12-13",
   "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
