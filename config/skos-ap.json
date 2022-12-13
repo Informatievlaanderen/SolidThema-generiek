@@ -13,6 +13,22 @@
   "contributors-column": "skos",
   "site": "site-skeleton/skos",
   "feedbackurl": "https://github.com/Informatievlaanderen/SolidThema-generiek/issues",
-  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/TODO/CORRECT-URL/index.html"
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/TODO/CORRECT-URL/index.html",
+  "translation": [
+    {
+      "language":"en",
+      "template":"skos-ap_en.j2",
+      "title": "Simple Knowledge Organization System (SKOS)",
+      "translationjson":"skos_en.json",
+      "mergefile":"skos_en_merged.jsonld"
+    },
+    {
+      "language":"nl",
+      "template":"skos-ap_nl.j2",
+      "title": "Simple Knowledge Organization System (SKOS)",
+      "translationjson":"skos_nl.json",
+      "mergefile":"skos_nl_merged.jsonld"
+    }
+  ]
 }
 ]
