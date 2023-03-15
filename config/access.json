@@ -1,6 +1,7 @@
 [
 {
   "name": "access-ap",
+  "title" : "Solid Access",
   "type": "ap",
   "eap": "Access.eap",
   "diagram": "Access",
@@ -16,6 +17,7 @@
 },
 {
   "name": "access",
+  "title" : "Solid Access",
   "type": "voc",
   "eap": "Access.eap",
   "diagram": "Access",
